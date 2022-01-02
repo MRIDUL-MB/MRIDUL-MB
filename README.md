@@ -8,7 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C| C++| Python | Redhat
+- 💻 &nbsp; C | C++| Python | Redhat
 - 🌐 &nbsp; HTML | CSS |  SASS | JavaScript | Bootstrap | ReactJS | NodeJS
 - 🛢 &nbsp; Postgersql | MySql | MongoDB
 - 🔧 &nbsp; Git | Markdown 
