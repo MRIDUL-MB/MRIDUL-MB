@@ -2,7 +2,7 @@
 <h3>  👨 About Me</h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Application at Kumaun University, Nainital.
+- 🎓 &nbsp; Studying Master of Computer Application at USICT, GGSIPU.
 - 🌱 &nbsp; Learning more about  UI and UX Design, Web development.
 - 🧑‍💻 &nbsp; Currently working on MERN stack.🧑‍💻
 
@@ -12,7 +12,7 @@
 - 🌐 &nbsp; HTML | CSS |  SASS | JavaScript | Bootstrap | ReactJS | NodeJS
 - 🛢 &nbsp; Postgersql | MySql | MongoDB
 - 🔧 &nbsp; Git | Markdown 
-- 🖥 &nbsp; AdobeXD | Photoshop | Filmora
+- 🖥 &nbsp; AdobeXD | Photoshop | Filmora | Canva
 
 <br/>
 
