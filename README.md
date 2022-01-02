@@ -4,12 +4,13 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Application at Kumaun University, Nainital.
 - 🌱 &nbsp; Learning more about  UI and UX Design, Web development.
+- 🧑‍💻 &nbsp; Currently working on MERN stack.🧑‍💻
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Redhat
-- 🌐 &nbsp; HTML | CSS |  SASS | JavaScript | Bootstrap | ReactJS
-- 🛢 &nbsp; Postgersql | MySql
+- 💻 &nbsp; C| C++| Python | Redhat
+- 🌐 &nbsp; HTML | CSS |  SASS | JavaScript | Bootstrap | ReactJS | NodeJS
+- 🛢 &nbsp; Postgersql | MySql | MongoDB
 - 🔧 &nbsp; Git | Markdown 
 - 🖥 &nbsp; AdobeXD | Photoshop | Filmora
 
